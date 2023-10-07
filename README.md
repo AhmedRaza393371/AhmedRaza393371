@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedraza393371&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraza393371" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedRaza393371/CODSOFT/tree/main/CodSoft/My%20Portfolio](https://github.com/AhmedRaza393371/CODSOFT/tree/main/CodSoft/My%20Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/AhmedRaza393371/CODSOFT/tree/main/My%20Portfolio](https://github.com/AhmedRaza393371/CODSOFT/tree/main/My%20Portfolio)
 
 - 💬 Ask me about **react, flutter**
 
